@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Dialogue System/DialogueController.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Game System/Folder.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Game System/GameController.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/UI/Dialogue UI/PhotoTextClick.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/UI/Dialogue UI/TextClick.cs" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e009df14cbe90f428e268bb506f8b3b, type: 3}
+  m_Name: Day 2
+  m_EditorClassIdentifier: 
+  mailPieces:
+  - title: "\u4E0A\u4E3B\uFF0C\u6C42\u4F60\u5782\u601C"
+    sendTime: Tue Jul 17,1999
+    mailType: 0
+    headPortrait: {fileID: 0}
+    senderName: 
+    senderEmail: nobody@yahoo.co.jp
+    targetEmail: <color=white>ryota</color><ryota123@yahoo.co.jp>
+    content: "\u4E3A\u4E86\u60E9\u7F5A\u6211\u4EEC\u8FD9\u4E9B\u8EAB\u8D1F\u539F\u7F6A\u800C\u4E0D\u81EA\u7701\u7684\u51E1\u6C11\u4EEC\uFF0C1999\u5E74\u76849\u67089\u65E5\uFF0C\u4E3B\u4F1A\u53EC\u5524\u5DE8\u5927\u7684\u6D2A\u6C34\u541E\u6CA1\u6574\u4E2A\u661F\u7403\uFF0C\u6D17\u6DA4\u6240\u6709\u4EBA\u7684\u751F\u547D\u4E0E\u7F6A\u6076\u3002\u8FD9\u4E0D\u662F\u5728\u5371\u8A00\u8038\u542C\uFF01\u8FD9\u4E0D\u662F\u5728\u5371\u8A00\u8038\u542C\uFF01\u8FD9\u4E0D\u662F\u5728\u5371\u8A00\u8038\u542C\uFF01\u5C06\u8FD9\u4E2A\u6D88\u606F\u8F6C\u53D1\u7ED9\u66F4\u591A\u7684\u4EBA\uFF0C\u8BA9\u6211\u4EEC\u4E00\u8D77\u5728\u6073\u6C42\u4E0E\u5FCF\u6094\u4E2D\u5EA6\u8FC7\u6700\u540E\u7684\u65E5\u5B50\u5427\uFF01\r\nKyrie
+      eleison\r\nChriste eleison\r\nKyrie eleison\r\n"
+  - title: "\u5DE5\u4F5C\u901A\u77E5"
+    sendTime: Tue Jul 17,1999
+    mailType: 1
+    headPortrait: {fileID: 21300000, guid: 7bc71d060e3ab4b439debc504ba20d28, type: 3}
+    senderName: "\u91CE\u6751\u5B9E"
+    senderEmail: Nomura111@yahoo.jp
+    targetEmail: <color=white>ryota</color><ryota123@yahoo.co.jp>
+    content: "\u4EB2\u7231\u7684\u5458\u5DE5\uFF0C\r\n\u4F60\u597D\u3002\r\n\u516C\u53F8\u4ECA\u65E5\u4E1A\u52A1\u7E41\u5FD9\uFF0C\u5728\u6B64\u9636\u6BB5\u9700\u8981\u5927\u5BB6\u7684\u5171\u540C\u52AA\u529B\u4E00\u8D77\u53BB\u5B8C\u6210\uFF0C\u4E3A\u516C\u53F8\u7684\u66F4\u5FEB\u66F4\u597D\u53D1\u5C55\u800C\u52AA\u529B\uFF0C\u6240\u4EE5\u5E0C\u671B\u5927\u5BB6\u5728\u665A\u9910\u4E4B\u540E\u7EE7\u7EED\u5B8C\u6210\u5DE5\u4F5C\u3002\u5F53\u7136\u516C\u53F8\u4E0D\u4F1A\u767D\u767D\u5360\u7528\u5927\u5BB6\u7684\u4F11\u606F\u65F6\u95F4\uFF0C\u516C\u53F8\u4F1A\u4E3A\u5927\u5BB6\u51C6\u5907\u4E30\u539A\u7684\u8865\u507F\u548C\u5956\u52B1\uFF0C\u5E0C\u671B\u5458\u5DE5\u80FD\u591F\u652F\u6301\u516C\u53F8\uFF0C\u7406\u89E3\u516C\u53F8\uFF0C\u4E3A\u516C\u53F8\u7684\u53D1\u5C55\u505A\u51FA\u8D21\u732E\u3002
+      \r\n\u795D\u597D\uFF01\r\nNomura\r\n\u9644\u4EF6\uFF1A<color=#4D63C6><u><link=\"game_02\">here</link>\r\n"

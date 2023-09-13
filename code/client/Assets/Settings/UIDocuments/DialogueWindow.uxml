@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Background" style="background-image: resource(&apos;bg&apos;); width: 1384px; height: 1080px; flex-grow: 1; -unity-background-scale-mode: stretch-to-fill; padding-left: 275px; padding-right: 275px; padding-top: 26px; padding-bottom: 26px;">
+        <ui:VisualElement name="Desktop">
+            <ui:VisualElement style="background-image: resource(&apos;Photos/窗口背景&apos;); width: 570px; height: 350px; border-left-width: 0; padding-left: 0;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
